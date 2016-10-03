@@ -1,4 +1,11 @@
+---
 layout: index
-title "Mi página"
-tagline https://alvaro-rodriguez.github.io/alvaro-rodriguez2.github.io/	
-	
+title: Mi página
+tagline: alvaro-rodriguez.github.io/alvaro-rodriguez2.github.io	
+---
+
+Página principal
+----------------
+
+#Página de inicio
+##Prueba
