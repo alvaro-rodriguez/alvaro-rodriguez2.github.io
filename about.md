@@ -7,7 +7,7 @@ tagline: Curriculo
 
 Apellidos:Rodríguez Márquez
 Nombre:Álvaro
-
+![Imagen perfil formal](images/perfil.jpg)
 Titulación
 ----------------
 Téctino Microinformático en sistemas y montaje de redes(O algo así)
