@@ -9,4 +9,6 @@ Página principal
 
 #Página de inicio
 ##Prueba
+
+Mira mi [curriculum](about)!
 ![Git HUB](images/github.png)
