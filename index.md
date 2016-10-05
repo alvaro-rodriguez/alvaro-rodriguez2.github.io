@@ -7,8 +7,7 @@ tagline: alvaro-rodriguez.github.io/alvaro-rodriguez2.github.io
 Página principal
 ----------------
 
-#Página de inicio
-##Prueba
-
+Página de inicio
+----------------
 Mira mi [curriculum](about)!
 ![Git HUB](images/github.png)
