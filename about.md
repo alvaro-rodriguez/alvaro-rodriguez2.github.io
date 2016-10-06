@@ -4,9 +4,10 @@ title: Curriculum
 tagline: Curriculo
 ---
 
+![Imagen perfil formal](images/perfil.jpg)
+
 Apellidos:Rodríguez Márquez
 Nombre:Álvaro
-![Imagen perfil formal](images/perfil.jpg)
 
 Titulación
 ----------------
