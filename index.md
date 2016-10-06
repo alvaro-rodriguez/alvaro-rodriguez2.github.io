@@ -9,6 +9,8 @@ Página principal
 
 Página de inicio
 ----------------
-Mira mi [curriculum](about)!
-![Git HUB](images/github.png)
-[Manual de markdown](https://blog.ghost.org/markdown/)
+<>
+<p><centerMira mi [curriculum](about)!</center></p>
+<p>[Manual de markdown](https://blog.ghost.org/markdown/)</p>
+<p>![Git HUB](images/github.png)</p>
+<>
