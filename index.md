@@ -4,11 +4,11 @@ title: Mi página
 tagline: alvaro-rodriguez.github.io/alvaro-rodriguez2.github.io	
 ---
 
-Página principal
+<center> Página principal </center> 
 ----------------
 
-Página de inicio
+<center> Página de inicio </center> 
 ----------------
-<p><center> Mira mi [curriculum](about)! </center></p>
-<p>[Manual de markdown](https://blog.ghost.org/markdown/)</p>
-<p>![Git HUB](images/github.png)</p>
+<center> Mira mi [curriculum](about)! </center>
+<center> [Manual de markdown](https://blog.ghost.org/markdown/) </center> 
+<center> ![Git HUB](images/github.png)</p> </center> 
